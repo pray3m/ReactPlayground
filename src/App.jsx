@@ -4,7 +4,7 @@ import SearchIcon from './assets/search.svg';
 import MovieCard from './MovieCard';
 
 // api key : 6c5b2dac
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=6c5b2dac';
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=6c5b2dac';
 
 const movie1= {
     "Title": "3 Idiots",
