@@ -1,7 +1,8 @@
+import PostList from "./PostList";
 import TodoList from "./TodoList";
 
 const ReactQuery = () => {
-  return <TodoList />;
+  return <PostList />;
 };
 
 export default ReactQuery;
