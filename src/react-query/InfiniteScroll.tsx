@@ -1,6 +1,5 @@
 import React from "react";
 import useInfiniteScroll from "./hooks/useInfiniteScroll";
-import { Post } from "./hooks/usePosts";
 
 const InfiniteScroll = () => {
   //   const [userId, setUserId] = useState<number>();
