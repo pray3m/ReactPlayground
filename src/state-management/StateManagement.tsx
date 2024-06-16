@@ -1,11 +1,11 @@
-import Counter from "./Counter";
-import TaskList from "./TaskList";
+import LoginStatus from "./LoginStatus";
 
 const StateManagement = () => {
   return (
     <div>
       {/* <Counter /> */}
-      <TaskList />
+      {/* <TaskList /> */}
+      <LoginStatus />
     </div>
   );
 };
