@@ -1,5 +1,11 @@
+import Counter from "./Counter";
+
 const StateManagement = () => {
-  return <div>StateManagement</div>;
+  return (
+    <div>
+      <Counter />
+    </div>
+  );
 };
 
 export default StateManagement;
