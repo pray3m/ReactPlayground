@@ -1,12 +1,12 @@
 import "./App.css";
-import ExpenseTracker from "./expense-tracker/ExpenseTracker";
-import ReactQuery from "./react-query/ReactQuery";
+import StateManagement from "./state-management/StateManagement";
 
 function App() {
   return (
     <div>
       {/* <ExpenseTracker /> */}
-      <ReactQuery />
+      {/* <ReactQuery /> */}
+      <StateManagement />
     </div>
   );
 }
