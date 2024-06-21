@@ -1,12 +1,13 @@
 import "./App.css";
-import StateManagement from "./state-management/StateManagement";
+import Zustand from "./zustand/Zustand";
 
 function App() {
   return (
     <div>
       {/* <ExpenseTracker /> */}
       {/* <ReactQuery /> */}
-      <StateManagement />
+      {/* <StateManagement /> */}
+      <Zustand />
     </div>
   );
 }

@@ -1,5 +1,6 @@
 import { useReducer } from "react";
-import counterReducer from "./counter/CounterReducer";
+import counterReducer from "./CounterReducer";
+
 
 const Counter = () => {
   // const [value, setValue] = useState(0);
