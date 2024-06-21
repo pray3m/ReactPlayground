@@ -1,4 +1,4 @@
-import AuthProvider from "./AuthProvider";
+import AuthProvider from "./auth/AuthProvider";
 import HomePage from "./HomePage";
 import NavBar from "./NavBar";
 import { TaskProvider } from "./tasks";
