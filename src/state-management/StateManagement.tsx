@@ -1,7 +1,7 @@
 import AuthProvider from "./AuthProvider";
 import HomePage from "./HomePage";
 import NavBar from "./NavBar";
-import TaskProvider from "./TaskProvider";
+import { TaskProvider } from "./tasks";
 
 const StateManagement = () => {
   return (
